@@ -17,4 +17,3 @@ if __name__ == "__main__":
             continue
         print("{}: {}".format(i, arg))
         i += 1
-        
